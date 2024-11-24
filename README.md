@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- Xuanthedev -->
 <a href="#" target="_blank">
   <img src="svg/xuanthedev.svg" width="1200" alt="xuanthedev-official" />
 </a>
